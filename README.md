@@ -3,4 +3,4 @@
 - Exploring Web development
 - Interested in building real-world projects and participating in hackathons
 
-  Looking forward to new opportunities!!
+  Looking forward to learning, building projects, and contributing to innovative ideas!!
